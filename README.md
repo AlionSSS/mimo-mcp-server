@@ -45,16 +45,16 @@
 - **音色复刻**：基于音频样本克隆音色
 - 支持情感控制和风格指令
 
-[语音合成图例-使用预置音色](docs/语音合成示例-使用预置音色.png)
-[语音合成图例-使用文本设计音色](docs/语音合成示例-使用文本设计音色.png)
-[语音合成图例-使用文本设计音色（智能润色）](docs/语音合成示例-使用文本设计音色（智能润色）.png)
+[语音合成图例-使用预置音色](docs/语音合成示例-使用预置音色.png)、
+[语音合成图例-使用文本设计音色](docs/语音合成示例-使用文本设计音色.png)、
+[语音合成图例-使用文本设计音色（智能润色）](docs/语音合成示例-使用文本设计音色（智能润色）.png)、
 [语音合成图例-音色复刻](docs/语音合成示例-音色复刻.png)
 
 ## 快速开始
 - 安装
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/mimo-mcp-server.git
+git clone https://github.com/AlionSSS/mimo-mcp-server.git
 cd mimo-mcp-server
 
 # 安装依赖
