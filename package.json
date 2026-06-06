@@ -1,6 +1,6 @@
 {
   "name": "mimo-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "MCP Server for MiMo multimodal capabilities (image, audio, video understanding, ASR, TTS)",
   "type": "module",
   "main": "dist/index.js",
