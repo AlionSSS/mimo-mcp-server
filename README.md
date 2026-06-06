@@ -19,11 +19,40 @@
 - MIMO Studio <https://aistudio.xiaomimimo.com/>
 
 ## 快速开始
+- 请先确保你的环境中已安装 [NodeJS](https://nodejs.org)，建议版本 >= 22
 
-- 请先确保你的环境中已安装 NodeJS，建议版本 >= 22
-- 下载 `git clone https://github.com/AlionSSS/mimo-mcp-server.git`
+### 方式一：直接使用 NPM 上发行的包 mimo-mcp-server
 - MCP Server 配置
+```
+{
+  "mcpServers": {
+    "mimo-mcp-server": {
+      "command": "npx",
+      "args": [
+        "mimo-mcp-server",
+        "-y"
+      ],
+      "env": {
+        "MIMO_API_KEY": "your-api-key-here"
+      }
+    }
+  }
+}
+```
 
+### 方式二：从 GitHub 下载项目文件
+- 下载、安装、构建项目
+```
+# 下载项目文件
+git clone https://github.com/AlionSSS/mimo-mcp-server.git
+cd mimo-mcp-server
+
+# 安装依赖
+npm install
+# 构建
+npm run build
+```
+- MCP Server 配置
 ```
 {
   "mcpServers": {
@@ -40,8 +69,7 @@
 }
 ```
 
-- 可用环境变量 env
-
+### 可用的环境变量 env
 ```bash
 # 必需：MiMo API Key
 MIMO_API_KEY="your-api-key-here"
