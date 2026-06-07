@@ -138,9 +138,9 @@ MIT License
 
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [MiMo 平台文档](https://platform.xiaomimimo.com/docs)
-- [图像理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/image-understanding)
-- [音频理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/audio-understanding)
-- [视频理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/video-understanding)
-- [语音识别文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/Speech-Recognition)
-- [语音合成文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/speech-synthesis-v2.5)
+- [MiMo 图像理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/image-understanding)
+- [MiMo 音频理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/audio-understanding)
+- [MiMo 视频理解文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/multimodal-understanding/video-understanding)
+- [MiMo 语音识别文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/Speech-Recognition)
+- [MiMo 语音合成文档](https://platform.xiaomimimo.com/docs/zh-CN/usage-guide/speech-synthesis-v2.5)
 
