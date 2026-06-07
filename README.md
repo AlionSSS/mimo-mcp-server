@@ -74,7 +74,7 @@ npm run build
 # 必需：MiMo API Key
 MIMO_API_KEY="your-api-key-here"
 
-# 可选：自定义 API 端点（默认为小米官方 TokenPlan 端点）
+# 可选：自定义 API URL（默认为小米官方 TokenPlan URL）
 MIMO_API_URL="https://token-plan-cn.xiaomimimo.com/v1/chat/completions"
 
 # 可选：自定义模型 ID
